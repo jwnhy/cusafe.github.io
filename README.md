@@ -1,4 +1,4 @@
-# CuSafe: Capturing Memory Corruptions on NVIDIA GPUs
+# <img src="assets/img/logo.png" alt="Quick preview"></a> CuSafe: Capturing Memory Corruptions on NVIDIA GPUs
 
 ## Overview of CuSafe
 
