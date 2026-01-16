@@ -35,6 +35,10 @@ applications, e.g., it can run on LLaMA 3 8B with less than 15% overhead.
 
 <center>
   <h4>
-    Detecting Use-After-Free on RTX 5090 with CuSafe
+    Detecting Out-of-Bounds on RTX 5090 with CuSafe
   </h4>
+</center>
+
+<center>
+  <script src="https://asciinema.org/a/nE9Y577deBYHQqWf.js" id="asciicast-nE9Y577deBYHQqWf" async="true"></script>
 </center>
