@@ -133,5 +133,5 @@ month = aug
 #### Detecting Out-of-Bounds on RTX 5090 with CuSafe
 
 <center>
-  <script src="https://asciinema.org/a/nE9Y577deBYHQqWf.js" id="asciicast-nE9Y577deBYHQqWf" async="true"></script>
+  <script data-rows="30" src="https://asciinema.org/a/nE9Y577deBYHQqWf.js" id="asciicast-nE9Y577deBYHQqWf" async="true"></script>
 </center>
